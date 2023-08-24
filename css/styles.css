@@ -15,7 +15,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(/images/background.jpg);
+    background-image: url(../images/background.jpg);
 }
 .form{
     max-width: 430px;
@@ -110,7 +110,7 @@ img.google-img{
    object-fit: cover;
 
 }
-a.google{
+a.google-img{
     border: 1px solid #CACACA;
 }
 a.google span{
